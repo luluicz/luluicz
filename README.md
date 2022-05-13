@@ -1,6 +1,6 @@
 - 👋 ola, eu sou a @luluicz
 - 👀 Eu tenho interesse em Pensamento Computacional
--   luana.basiewicz@escolka.pr.gov.br
+-   luana.basiewicz@escola.pr.gov.br
 - 📫 Eu sou desenvolvedor 
 
 <!---
